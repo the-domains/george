@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[George]]></title>
         <description><![CDATA[George]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/george/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 11:33:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 11:35:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/george/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a355a0b5-6b9a-44fa-a038-b39de40ed964.png">]]></description>
+            <link>https://thegrid.ai/george/5d5d6f38-04fa-40cd-b290-c50aca1cf60b/index.html</link>
+            <guid isPermaLink="false">5d5d6f38-04fa-40cd-b290-c50aca1cf60b</guid>
+            <pubDate>Tue, 26 Apr 2016 11:35:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Mission]]></title>
             <description><![CDATA[<article><h1>The Mission</h1><p>Primary</p></article>]]></description>
-            <link>undefinedthe-mission/index.html</link>
+            <link>https://thegrid.ai/george/the-mission/index.html</link>
             <guid isPermaLink="false">404feb83-8e15-4667-8d02-8ba6b99a916d</guid>
             <pubDate>Tue, 26 Apr 2016 11:32:32 GMT</pubDate>
         </item>
