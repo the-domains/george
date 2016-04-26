@@ -1,7 +1,7 @@
 name: George
 favicon: null
-layout_spectrum: 0.6245066872797906
-typography_spectrum: 0.6856583992484957
+layout_spectrum: 0.25538
+typography_spectrum: 0.38812
 title: George
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5077723721042275
+  brandStrength: 0.5
   lightness: 0.22266071988269687
   saturation: 0.6318945668172091
   rhythmicContrast: 0.8885543439537287
