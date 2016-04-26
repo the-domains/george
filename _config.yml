@@ -2,6 +2,7 @@ name: George
 favicon: null
 layout_spectrum: 0.6245066872797906
 typography_spectrum: 0.6856583992484957
+title: George
 cta:
   domain: null
   bucket: null
