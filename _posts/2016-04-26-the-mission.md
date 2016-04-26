@@ -1,28 +1,30 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 'Primary '
-datePublished: '2016-04-26T11:32:32.723Z'
-dateModified: '2016-04-26T11:32:14.272Z'
+description: To awaken wonder and creativity in children ... To help teachers ...
+datePublished: '2016-04-26T12:15:30.853Z'
+dateModified: '2016-04-26T12:15:19.422Z'
 title: The Mission
 author: []
+sourcePath: _posts/2016-04-26-the-mission.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-26-the-mission.md
-published: true
-url: the-mission/index.html
-_type: Article
+starred: true
+_type: Blurb
 
 ---
 # The Mission
+
+**_To awaken wonder and creativity in children ... To help teachers ..._**
 
 **Primary**
 
