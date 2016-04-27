@@ -4,7 +4,7 @@
         <description><![CDATA[George]]></description>
         <link>https://thegrid.ai/george/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 11:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 12:21:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/george/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A universe of programming]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/george/the-vision/index.html</link>
             <guid isPermaLink="false">bcc4b4d6-9ea5-4fbd-bf33-e593b8bea39d</guid>
             <pubDate>Tue, 26 Apr 2016 12:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a355a0b5-6b9a-44fa-a038-b39de40ed964.png">]]></description>
-            <link>https://thegrid.ai/george/5d5d6f38-04fa-40cd-b290-c50aca1cf60b/index.html</link>
-            <guid isPermaLink="false">5d5d6f38-04fa-40cd-b290-c50aca1cf60b</guid>
-            <pubDate>Tue, 26 Apr 2016 11:35:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
